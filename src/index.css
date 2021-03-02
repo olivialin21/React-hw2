@@ -242,7 +242,7 @@ a.nav-link{
 /* footer */
 .footer{
   background-color: #E978AA;
-  /* opacity: 60%; */
+  opacity: 0.6;
   display:flex;
   flex-direction: column;
   align-items: center;
@@ -392,7 +392,7 @@ a.nav-link{
 
 .img_3g{
   width: 100%;
-  /* opacity: 25%; */
+  opacity: 0.25;
 }
 
 /* introduction */
