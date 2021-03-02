@@ -106,7 +106,6 @@ padding-top: calc(var(--width) * 2.25);
   }
 }
 
-/* nav */
 .navbar_bg{
   width:100%;
   background-color:#F2AECC;
